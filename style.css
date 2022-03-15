@@ -6,17 +6,25 @@
      border-color: #288855;
      background-color: #288855;
 }
-@media(max-width: 575px){ 
+@media(max-width: 767px){ 
     .vis a span{
         visibility: hidden;
         font-size: 10px;
     }
-    .{
+    .cart{
         
        display: none;
        visibility: hidden;
-       background-image: url(img/image3.jpg);
+       width: 100;
+       background-color: red;
         
+    }
+    .wep{
+        background-image: url(img/image3.jpg);
+        background-size: 100% 100%;
+        align-content: center;
+        background-repeat: no-repeat;
+        width: 100%;
     }
 }
 
@@ -29,7 +37,7 @@
 
 } */
 
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) { */
     
 
 .flex1{
@@ -64,4 +72,36 @@
     width: auto;
     padding-top: 100px;
 }
+
+.cent{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: sans-serif, "Apercu";
+    font-size: 10px;
+    font-weight: 400px;
+    line-height: 24px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: -8px;
+    word-spacing: 10px;
+    padding-top: 24px;
+    position: absolute;
+    tab-size: 4;
+    text-rendering: optimizelegibility;
+    width: 1440px;
+}
+
+h5 span{
+    color: green;
+}
+.spac{
+    /* margin-top: 20rem;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-left: auto;
+    margin-right: auto; */
+    
+   
 }
