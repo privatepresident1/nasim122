@@ -11,15 +11,26 @@
         visibility: hidden;
         font-size: 10px;
     }
-     
-}
-@media(max-width: 575px){
-    .cart div{
-        display: none;
-        visibility: hidden;
+    .{
+        
+       display: none;
+       visibility: hidden;
+       background-image: url(img/image3.jpg);
+        
     }
 }
 
+/* @media(max-width: 575px){
+    .cart img{
+        display: none;
+        background-image: url(img/image2.jpg);
+        
+    }
+
+} */
+
+@media (min-width: 1200px) {
+    
 
 .flex1{
     display:flex;
@@ -52,4 +63,5 @@
     background-color: #FCF4F2;
     width: auto;
     padding-top: 100px;
+}
 }
