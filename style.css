@@ -11,6 +11,12 @@
         visibility: hidden;
         font-size: 10px;
     }
+    .live1{
+        align-content: center;
+        text-align: center;
+        justify-content: center;
+        align-self:center;
+    }
     .cart{
         
        display: none;
@@ -19,6 +25,10 @@
       
        
         
+    }
+    .lowt{
+        align-content: center;
+        text-align: center;
     }
    
     .wep{
@@ -159,6 +169,7 @@ background-position-x: center;
 .wrapp{
     background-color: #F2FCF9;
     text-align:left;
+    width: 1440px;
     
     
 }
@@ -196,4 +207,7 @@ background-position-x: center;
     background-color: white;
     box-shadow: 9px 4px 10px;
     height: 65%;
+}
+.tot{
+    width: 100%;
 }
