@@ -317,8 +317,97 @@ text-rendering: optimizelegibility;
 width: 360px;
 word-break: normal;
 word-spacing: 1px;
--moz-osx-font-smoothing: grayscale
+-moz-osx-font-smoothing: grayscale;
 }
 .cool{
     text-align: start;
+}
+.social{
+    background-color: #141414;
+    background-color: rgb(20, 20, 20);
+background-repeat: no-repeat;
+box-sizing: border-box;
+color: rgb(33, 37, 41);
+cursor: default;
+display: block;
+font-family: "Apercu", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+tab-size: 4;
+text-align: left;
+text-rendering: optimizelegibility;
+word-break: normal;
+word-spacing: 1px;
+-moz-osx-font-smoothing: grayscale;
+}
+.social1{
+    color: white;
+}
+.social2{
+    background-color: #fff;
+background-repeat: no-repeat;
+box-sizing: border-box;
+color: black;
+cursor: default;
+display: block;
+font-family: "Apercu", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+tab-size: 4;
+text-align: left;
+text-rendering: optimizelegibility;
+word-break: normal;
+word-spacing: 1px;
+-moz-osx-font-smoothing: grayscale;
+}
+.text1{
+    color: black;
+}
+.backer{
+    background-color: rgb(7, 50, 27);
+background-repeat: no-repeat;
+box-sizing: border-box;
+color: rgb(255, 255, 255);
+cursor: default;
+font-family: "Apercu", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+padding-bottom: 24px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 24px;
+tab-size: 4;
+text-align: left;
+text-rendering: optimizelegibility;
+word-break: normal;
+word-spacing: 1px;
+-moz-osx-font-smoothing: grayscale;
+}
+.vent{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
 }
