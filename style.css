@@ -30,6 +30,10 @@
         align-content: center;
         text-align: center;
     }
+    .wenn{
+        text-align: center;
+        justify-content: center;
+    }
    
     .wep{
         background-image: url(img/hero3.jpg);
@@ -210,4 +214,111 @@ background-position-x: center;
 }
 .tot{
     width: 100%;
+}
+.fluent{
+    text-align: center;
+    min-height: 350px;
+    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)),url(https://nasims.gov.ng/_nuxt/img/about-hero.f21246b.webp);
+      background-repeat: repeat, repeat;
+      background-size: auto, auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+  }
+    
+    
+
+.sen{
+    display: flex;
+    align-content: center;
+   
+    
+}
+.wen{
+    background-image: url(img/about2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+}
+.crace{
+    text-align: left;
+}
+.flue{
+    background-color: #FFFBF6;
+    text-align: center;
+}
+.aboutt{
+    font-weight: 600;
+    max-width: 600px;
+    margin: 0 auto 30px;
+    text-align: center;
+}
+/* .wen1{
+    background-image: url(img/about2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.wen2{
+    background-image: url(img/about2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wen3{
+    background-image: url(img/about2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wen4{
+    background-image: url(img/about2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+} 
+*/
+
+.conter{
+    text-align: center;
+}
+.wrop1{
+    display: flex;
+}
+.wrop2{
+    align-content: center;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+border-bottom-left-radius: 4px;
+border-bottom-right-radius: 4px;
+border-top-left-radius: 4px;
+border-top-right-radius: 4px;
+box-shadow: rgba(0, 0, 0, 0.1) 2px 2px 7px 2px;
+box-sizing: border-box;
+color: rgb(33, 37, 41);
+cursor: default;
+flex-basis: auto;
+flex-grow: 0;
+font-family: "Apercu", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+max-width: 100%;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+tab-size: 4;
+text-align: left;
+text-rendering: optimizelegibility;
+width: 360px;
+word-break: normal;
+word-spacing: 1px;
+-moz-osx-font-smoothing: grayscale
+}
+.cool{
+    text-align: start;
 }
